@@ -1,0 +1,8 @@
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\bin\Debug\Customer.exe.config
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\bin\Debug\Customer.exe
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\bin\Debug\Customer.pdb
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\obj\Debug\Customer.Form1.resources
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\obj\Debug\Customer.exe
+C:\Users\Aldo Andreano\Desktop\03081180004_Edward\Customer\obj\Debug\Customer.pdb
